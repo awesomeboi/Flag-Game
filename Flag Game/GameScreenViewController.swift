@@ -80,6 +80,7 @@ class GameScreenViewController: UIViewController {
             correctAnswer = Int.random(in: 0...2)
             countryName.text = countries[correctAnswer]
         }
+        updateGame()
     }
     //Tapped button function is for catching user selection
     @IBAction func buttonTapped(_ sender: UIButton) {
