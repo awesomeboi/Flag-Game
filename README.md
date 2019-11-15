@@ -5,4 +5,6 @@ I finished 21 day of "100 Day of Swift" on website : https://www.hackingwithswif
 
 I combined first 2 Project with this game.
 
-I am looking forwrd to hearing your review. 
+I am looking forward to hearing your review.
+
+![GitHub Logo](/Screenshots/Screenshot.png)
