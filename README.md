@@ -7,4 +7,4 @@ I combined first 2 Project with this game.
 
 I am looking forward to hearing your review.
 
-![GitHub Logo](/Screenshots/Screenshot.png)
+![App Screenshot](/Screenshots/Screenshot.png)
